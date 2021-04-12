@@ -1,5 +1,5 @@
 {
-    "name": "spipu/html2pdf",
+    "name": "sindla/html2pdf",
     "type": "library",
     "description": "Html2Pdf is a HTML to PDF converter written in PHP5 (it uses TCPDF). OFFICIAL PACKAGE",
     "keywords": ["html", "pdf", "html2pdf"],
@@ -13,7 +13,7 @@
         }
     ],
     "require": {
-        "php": "^5.6 || ^7.0",
+        "php": "^5.6 || ^7.0 || ^8.0",
         "ext-mbstring": "*",
         "ext-gd": "*",
         "tecnickcom/tcpdf": "^6.2"
